@@ -1,5 +1,5 @@
 # Sample React Application to check for modular-login-sdk
-
+This project is there for checking modular-login-sdk's login module is working or not.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
