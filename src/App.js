@@ -6,7 +6,7 @@ function App() {
   doLogin("123","fresh out","erweerw").then(data=>console.log(data))
   return (
     <div className="App">
-      fsgdf
+      Random check Kindly check the console.log for it.
     </div>
   );
 }
